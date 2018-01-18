@@ -1,7 +1,7 @@
 # Visualizing_NRC_Allegation_Intake_Data
 '''
 This code was written to serve as an interface to visualize the allegations intake
-processed by the NRC at at nuclear reactors across the country from 2013-2017. 
+processed by the NRC at nuclear reactors across the country from 2013-2017. 
 The data is publicly available and can be found  at: 
     
     https://www.nrc.gov/about-nrc/regulatory/allegations/statistics.html 
